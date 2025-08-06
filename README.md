@@ -10,5 +10,15 @@ All > Email > Notifications <br>
 - For 'What it will contain' tab, we will dynamically write in the subject and the body <br>
   ![](https://github.com/CodeWithLuwam/Designing-a-Workflow-to-Trigger-Email-Alerts/blob/main/Images/Dynamic%20Notification%20Email.png?raw=true)
   Recap: <br>
-- We have the **table** we are working with, the notification will be sent when **triggered** to a **group** with adynamic **email**. <br>
+We have the **table** we are working with, the notification will be sent when **triggered** to a **group** with adynamic **email**. <br>
+--------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------
+Next, we go to the Workflow Studio and create a New Flow <br>
+- Name the New Flow and press Build Flow <br>
+![](https://github.com/CodeWithLuwam/Designing-a-Workflow-to-Trigger-Email-Alerts/blob/main/Images/Name%20New%20Flow%20in%20Workflow%20Studio.png?raw=true)<br>
+We'll press Shift and select the options we need <br>
+![](https://github.com/CodeWithLuwam/Designing-a-Workflow-to-Trigger-Email-Alerts/blob/main/Images/Condition%20Urgency%20High%20or%20Medium.png?raw=true) <br>
+For Action, since we already created an email, we'll select Send Notification instead of Send Email
+![](https://github.com/CodeWithLuwam/Designing-a-Workflow-to-Trigger-Email-Alerts/blob/main/Images/Action%20Send%20Notification.png?raw=true)
+
 
