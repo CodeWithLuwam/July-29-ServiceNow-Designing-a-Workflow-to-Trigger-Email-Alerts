@@ -1,5 +1,5 @@
 # Designing-a-Workflow-to-Trigger-Email-Alerts
-#  Creating email notifications and workflows. The process of designing a flow to trigger email alerts for high-priority asset recovery requests.
+# Creating email notifications and workflows. The process of designing a flow to trigger email alerts for high-priority asset recovery requests.
 All > Email > Notifications <br>
 - Create New Notificatin. Even though the Name is not required, we'll still give it a name that relates to the object: "Notify Team Leaders" <br>
 - Then we'll choose a Table, Asset Recovery
@@ -25,4 +25,11 @@ Next, we'll give it a record
 it automatically fills the Table with Asset Recovery Request and we see for *Notification it linked "Notify team lead"
 ![](https://github.com/CodeWithLuwam/Designing-a-Workflow-to-Trigger-Email-Alerts/blob/main/Images/Table%20Automatically%20Linked.png?raw=true)
 ![](https://github.com/CodeWithLuwam/Designing-a-Workflow-to-Trigger-Email-Alerts/blob/main/Images/Finished%20Workflow.png?raw=true)
-
+--------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------
+We will go to the Asset Recovery Request Module and create a New record
+![](https://github.com/CodeWithLuwam/Designing-a-Workflow-to-Trigger-Email-Alerts/blob/main/Images/New%20Asset%20Recovery%20Record%20to%20Test.png?raw=true)
+Last step is to go to System Mailbox > Outbound > Outbox
+We see its been created and we'll preview the email
+![](https://github.com/CodeWithLuwam/Designing-a-Workflow-to-Trigger-Email-Alerts/blob/main/Images/Email%20Outbound.png?raw=true)
+![](https://github.com/CodeWithLuwam/Designing-a-Workflow-to-Trigger-Email-Alerts/blob/main/Images/Preview%20Email%20Notification%20Sent.png?raw=true)
