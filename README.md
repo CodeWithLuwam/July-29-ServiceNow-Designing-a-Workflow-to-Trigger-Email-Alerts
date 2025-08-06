@@ -20,5 +20,9 @@ We'll press Shift and select the options we need <br>
 ![](https://github.com/CodeWithLuwam/Designing-a-Workflow-to-Trigger-Email-Alerts/blob/main/Images/Condition%20Urgency%20High%20or%20Medium.png?raw=true) <br>
 For Action, since we already created an email, we'll select Send Notification instead of Send Email
 ![](https://github.com/CodeWithLuwam/Designing-a-Workflow-to-Trigger-Email-Alerts/blob/main/Images/Action%20Send%20Notification.png?raw=true)
-
+Next, we'll give it a record
+![](https://github.com/CodeWithLuwam/Designing-a-Workflow-to-Trigger-Email-Alerts/blob/main/Images/Drag%20Asset%20Recovery%20Record.png?raw=true)
+it automatically fills the Table with Asset Recovery Request and we see for *Notification it linked "Notify team lead"
+![](https://github.com/CodeWithLuwam/Designing-a-Workflow-to-Trigger-Email-Alerts/blob/main/Images/Table%20Automatically%20Linked.png?raw=true)
+![](https://github.com/CodeWithLuwam/Designing-a-Workflow-to-Trigger-Email-Alerts/blob/main/Images/Finished%20Workflow.png?raw=true)
 
